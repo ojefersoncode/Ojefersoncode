@@ -124,7 +124,7 @@ Me chamo Jeferson Vidal, tenho 24 anos e sou natural de Minas Gerais.Sou apaixon
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojefersoncode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojefersoncode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
