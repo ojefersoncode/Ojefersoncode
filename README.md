@@ -5,14 +5,14 @@
 Me chamo Jeferson Vidal, tenho 24 anos e sou natural de Minas Gerais.Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Github "[Ojefersoncode](https://github.com/ojefersoncode)", onde compartilho meus projetos web, e também através de networks, com o perfil chamado "[Ojefersoncode](https://www.instagram.com/jefersoncode)".
 
 <p align="left">
-    <a href="https://github.com/Ojefersoncode?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ojefersoncode?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Ojefersoncode?tab=followers">
+    <a href="https://github.com/ojefersoncode?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -117,7 +117,7 @@ Me chamo Jeferson Vidal, tenho 24 anos e sou natural de Minas Gerais.Sou apaixon
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ojefersoncode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ojefersoncode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
