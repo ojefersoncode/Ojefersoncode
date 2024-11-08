@@ -136,7 +136,7 @@
 
 <p>
 <div align="center">
-<br><p align="left><b>Visitas</b></p>  
+<br><p align="left"><b>Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ojefersoncode}/count.svg" /></p> 
 <br></div>
 </p>
