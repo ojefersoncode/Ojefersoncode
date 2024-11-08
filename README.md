@@ -132,7 +132,7 @@ Me chamo Jeferson Vidal, tenho 24 anos e sou natural de Minas Gerais.Sou apaixon
 </br>
 
 <p>
-<div align="center">
+<div align="left">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ojefersoncode}/count.svg" /></p> 
 <br></div>
