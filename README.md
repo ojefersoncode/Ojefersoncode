@@ -1,6 +1,5 @@
 # Ojefersoncode 💻
 
-**`Desenvolvedor FullStack`**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Jeferson+Vidal;I+am+Brazilian;)](https://git.io/typing-svg)
 
@@ -24,6 +23,9 @@
 </p>
 
 ---
+
+**`Desenvolvedor FullStack`**
+
 
 ### 🤖 Linguagens e Tecnologias
 
