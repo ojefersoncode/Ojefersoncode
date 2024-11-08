@@ -132,7 +132,6 @@ Me chamo Jeferson Vidal, tenho 24 anos e sou natural de Minas Gerais.Sou apaixon
 
 </p>
 
-</br>
 
 <p>
 <div align="center>
