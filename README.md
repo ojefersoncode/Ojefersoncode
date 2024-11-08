@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jeferson Vidal, tenho 24 anos e sou natural de Minas Gerais.Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Github "[Ojefersoncode](https://github.com/ojefersoncode)", onde compartilho meus projetos web, e também através de networks, com o perfil chamado "[Ojefersoncode](https://www.instagram.com/jefersoncode)".
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Jeferson+Vidal;I+am+Brazilian;)](https://git.io/typing-svg)
+
+
 
 <p align="left">
     <a href="https://github.com/ojefersoncode?tab=repositories&sort=stargazers">
