@@ -33,6 +33,8 @@
     <br></div>
 </p>
 
+---
+
 
 ### 🤖 Linguagens e Tecnologias
 
