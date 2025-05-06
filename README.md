@@ -25,7 +25,6 @@
 
 ---
 
-
 <p>
     <div align="center">
     <br><p align="left"><b>Visitas</b></p>  
@@ -34,7 +33,6 @@
 </p>
 
 ---
-
 
 ### 🤖 Linguagens e Tecnologias
 
