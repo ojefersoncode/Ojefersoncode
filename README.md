@@ -2,9 +2,9 @@
 
 **`Front-end Developer`**
 
-**`Founder: Cooderfy.com `**
+**`Founder: Cooderfy.com 40% progress`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&left=true&vLeft=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Jeferson+Vidal;I+am+Brazilian;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=40&left=true&vLeft=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Jeferson+Vidal;I+am+Brazilian;)](https://git.io/typing-svg)
 
 
 
