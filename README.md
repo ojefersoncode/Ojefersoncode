@@ -37,6 +37,7 @@
 ---
 <br>
 🤖 Linguagens e Tecnologias
+
 <p>
   <img 
     align="left" 
